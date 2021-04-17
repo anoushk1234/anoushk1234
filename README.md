@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @anoushk1234
-- 👀 I’m interested in ... Flutter, Firebase, Machine Learning, Python, Computer Networks, Blockchain and crypto
-- 🌱 I’m currently learning ... Tensorflow
+- 👋 Hi Anoushk
+- 👀 I’m skilled in Flutter, Firebase, Python, HTML and CSS
+- I'm interested in Blockchain and crypto too
+- 🌱 I’m currently learning ... Tensorflow and Javascript
 - 💞️ I’m looking to collaborate on ... any cool and exciting project
 - 📫 How to reach me ... dm me on twitter @anoushk77
 

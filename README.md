@@ -1,5 +1,5 @@
 - 👋 Hi Anoushk
-- 👀 I’m skilled in Flutter, Firebase, Python, HTML and CSS
+- 👀 I’m skilled in Flutter, Firebase, Python, HTML, CSS and Javascript
 - 🎒I'm welcome to any job oppurtunities and internships
 - 💻 I'm interested in Blockchain and crypto too
 - 🏃‍ I hustle between school and coding

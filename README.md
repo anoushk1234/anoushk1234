@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anoushk</h1>
 <h3 align="center">A passionate developer/aspiring entrpreneur from India</h3>
 
-<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=anoushk77" target="blank"><img src="https://img.shields.io/twitter/follow/anoushk77?logo=twitter&style=for-the-badge" alt="anoushk77" /></a> </p>
 
 <a href="https://twitter.com/anoushk77?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@anoushk77</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

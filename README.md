@@ -11,16 +11,15 @@
 
 - 📝 Subscribe to my substack for product updates [anoushk.substack.com](anoushk.substack.com)
 
-- 📫 How to reach me **kharangateanoushk04@gmail.com**
-
 - 🏹 Product Hunt [https://www.producthunt.com/@anoushk77](https://www.producthunt.com/@anoushk77)
 
 - ⚡ Fun fact **I really enjoy cooking**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get in touch!</h3>
 <p align="left">
 <a href="https://twitter.com/intent/follow?screen_name=anoushk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushk77" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13749032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13749032" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/13749032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="13749032" height="30" width="40" /></a>
 </p>
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoushk</h1>
-<h3 align="center">A passionate developer/aspiring entrpreneur from India</h3>
+<h3 align="center">A passionate developer/aspiring entrepreneur from India</h3>
 
 <p align="left"> <a href="https://twitter.com/intent/follow?screen_name=anoushk77" target="blank"><img src="https://img.shields.io/twitter/follow/anoushk77?logo=twitter&style=for-the-badge" alt="anoushk77" /></a> </p>
 

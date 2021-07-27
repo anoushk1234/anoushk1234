@@ -13,7 +13,7 @@
 
 - 🏹 Product Hunt [https://www.producthunt.com/@anoushk77](https://www.producthunt.com/@anoushk77)
 
-- ⚡ Fun fact **I really enjoy cooking**
+-  Fun fact **I really enjoy cooking**
 
 <h3 align="left">Let's get in touch!</h3>
 <hr thickness=" height="1" />

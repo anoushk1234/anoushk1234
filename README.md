@@ -18,7 +18,7 @@
 <h3 align="left">Let's get in touch!</h3>
 <hr thickness=" height="1" />
 <p align="left">
-- 📫 kharangateanoushk04@gmail.com
+- 📫 kharangateanoushk04@gmail.com &nbsp;
 - 🐥 [Twitter](https://twitter.com/intent/follow?screen_name=anoushk77) 
 </p>
 

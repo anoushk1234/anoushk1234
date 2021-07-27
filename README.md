@@ -11,7 +11,7 @@
 
 - 📝 Subscribe to my substack for product updates [anoushk.substack.com](anoushk.substack.com)
 
-- 🏹 Product Hunt [https://www.producthunt.com/@anoushk77](https://www.producthunt.com/@anoushk77)
+- 🏹 [Product Hunt](https://www.producthunt.com/@anoushk77)
 
 - 🍳 Fun fact **I really enjoy cooking**
 
@@ -19,7 +19,7 @@
 <hr thickness=" height="1" />
 <p align="left">
 - 📫 kharangateanoushk04@gmail.com <br>
-- 🐥 <a href="https://twitter.com/intent/follow?screen_name=anoushk77"> </a> 
+- 🐥 <a href="https://twitter.com/intent/follow?screen_name=anoushk77">Twitter</a> 
 </p>
 
 

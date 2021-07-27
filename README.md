@@ -19,7 +19,7 @@
 <hr thickness=" height="1" />
 <p align="left">
 - 📫 kharangateanoushk04@gmail.com <br>
-- 🐥 [Twitter](https://twitter.com/intent/follow?screen_name=anoushk77) 
+- 🐥 <a href="https://twitter.com/intent/follow?screen_name=anoushk77"> </a> 
 </p>
 
 

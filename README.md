@@ -13,14 +13,13 @@
 
 - 🏹 Product Hunt [https://www.producthunt.com/@anoushk77](https://www.producthunt.com/@anoushk77)
 
--  Fun fact **I really enjoy cooking**
+- 🍳 Fun fact **I really enjoy cooking**
 
 <h3 align="left">Let's get in touch!</h3>
 <hr thickness=" height="1" />
 <p align="left">
-<a href="https://twitter.com/intent/follow?screen_name=anoushk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushk77" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13749032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13749032" height="30" width="40" /></a>
-<img src="https://img.icons8.com/fluent/100/000000/mailbox-plane.png" width="40" height="30"/>
+- 📫 kharangateanoushk04@gmail.com
+- 🐥 [Twitter](https://twitter.com/intent/follow?screen_name=anoushk77) 
 </p>
 
 

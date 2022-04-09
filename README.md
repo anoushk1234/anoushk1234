@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Solana and blockchain**
 
-- 📝 I write articles on [https://mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth)
+- 📝 I write articles on [mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth)
 
 - 📫 How to reach me **kharangateanoushk04@gmail.com**
 

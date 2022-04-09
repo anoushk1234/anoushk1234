@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Anchor lang & Solana dev**
 
-<!-- - 👨‍💻 All of my projects are available at [https://anoushk.xyz](https://anoushk.xyz)
+- 💬 Ask me about **Solana and blockchain**
 
-- 📝 I regularly write articles on [https://mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth) -->
+- 📝 I write articles on [https://mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth)
 
 - 📫 How to reach me **kharangateanoushk04@gmail.com**
 

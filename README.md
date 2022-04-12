@@ -21,6 +21,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter in 2022: strategy and roadmap](https://medium.com/flutter/flutter-in-2022-strategy-and-roadmap-8c5eaf7c4275?source=rss-59a5b43ec048------2)
+- [Announcing Flutter for Windows](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed?source=rss-59a5b43ec048------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

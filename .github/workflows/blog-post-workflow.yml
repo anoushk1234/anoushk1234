@@ -6,9 +6,11 @@ jobs:
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@1.7.1
-              with: 
-                max_post_count: "4"
-                feed_list: "https://anoushk.medium.com/feed"
+        steps:
+        - name: Checkout
+          uses: actions/checkout@v2
+        - name: Pull in dev.to posts
+          uses: gautamkrishnar/blog-post-workflow@master
+          with:
+            max_post_count: "2"
+            feed_list: "https://anoushk.medium.com/feed"

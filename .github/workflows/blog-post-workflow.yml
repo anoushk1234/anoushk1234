@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Blog Post Workflow
 on: 
     schedule:
         - cron: '0 * * * *'
@@ -8,7 +8,7 @@ jobs:
         runs-on: ubuntu-latest
         steps: 
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - uses: gautamkrishnar/blog-post-workflow@1.7.1
               with: 
                 max_post_count: "4"
                 feed_list: "https://medium.com/feed/@anoushk"

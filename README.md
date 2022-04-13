@@ -24,6 +24,17 @@
 - [How to mint NFTs on Solana using Rust and Metaplex](https://anoushk.medium.com/how-to-mint-nfts-on-solana-using-rust-and-metaplex-f66bac717cb8?source=rss-10fdf2dc0158------2)
 <!-- BLOG-POST-LIST:END -->
 
+## ⚡ My latest activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## My Projects  📁
+
+- [**Dakiya**](https://dakiya.xyz): A secure p2p messaging platform and protocol built on ethereum and polygon
+- [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
+- [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
+- [**MapMyDao**](https://mapmydao.vercel.app/): MapMyDAO is a neat app that allows DAO members to easily locate each other and share information about their DAO.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anoushk77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anoushk77" height="30" width="40" /></a>

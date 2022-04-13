@@ -26,6 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#458](https://github.com/Web3Modal/web3modal/issues/458) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
+2. 🗣 Commented on [#44](https://github.com/metaplex-foundation/js-next/issues/44) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
+3. 🗣 Commented on [#24](https://github.com/metaplex-foundation/js-next/issues/24) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
+4. ❗️ Opened issue [#44](https://github.com/metaplex-foundation/js-next/issues/44) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
+5. 🗣 Commented on [#38](https://github.com/metaplex-foundation/js-next/issues/38) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

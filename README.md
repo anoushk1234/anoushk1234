@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Solana and blockchain**
 
-- 📝 I write articles on [mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth)
+- 📝 I write articles on [mirror.xyz/anoushk.eth](https://mirror.xyz/anoushk.eth) & [anoushk.medium.com](https://anoushk.medium.com)
 
 - 📫 How to reach me **kharangateanoushk04@gmail.com**
 

@@ -39,6 +39,9 @@
 - [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
 - [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
 - [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
+- **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
+  - [Landing Page](https://fanvest.in)
+  - [Dapp](https://apha.fanvest.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

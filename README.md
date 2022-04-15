@@ -21,7 +21,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to mint NFTs on Solana using Rust and Metaplex](https://betterprogramming.pub/how-to-mint-nfts-on-solana-using-rust-and-metaplex-f66bac717cb8?source=rss-10fdf2dc0158------2)
+- [How to Mint NFTs on Solana Using Rust and Metaplex](https://betterprogramming.pub/how-to-mint-nfts-on-solana-using-rust-and-metaplex-f66bac717cb8?source=rss-10fdf2dc0158------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ My latest activity

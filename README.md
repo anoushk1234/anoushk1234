@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/Metapass/metapass-v2/pull/21) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. ❗️ Opened issue [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
-3. ❗️ Opened issue [#458](https://github.com/Web3Modal/web3modal/issues/458) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
-4. 🗣 Commented on [#44](https://github.com/metaplex-foundation/js-next/issues/44) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
-5. 🗣 Commented on [#24](https://github.com/metaplex-foundation/js-next/issues/24) in [metaplex-foundation/js-next](https://github.com/metaplex-foundation/js-next)
+1. 🗣 Commented on [#2](https://github.com/think-divergent/pookie-bot/issues/2) in [think-divergent/pookie-bot](https://github.com/think-divergent/pookie-bot)
+2. ❌ Closed PR [#2](https://github.com/think-divergent/pookie-bot/pull/2) in [think-divergent/pookie-bot](https://github.com/think-divergent/pookie-bot)
+3. 🎉 Merged PR [#21](https://github.com/Metapass/metapass-v2/pull/21) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❗️ Opened issue [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
+5. ❗️ Opened issue [#458](https://github.com/Web3Modal/web3modal/issues/458) in [Web3Modal/web3modal](https://github.com/Web3Modal/web3modal)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

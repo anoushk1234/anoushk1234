@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#241](https://github.com/metaplex-foundation/docs/pull/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
-2. 🎉 Merged PR [#25](https://github.com/Metapass/metapass-v2/pull/25) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. ❗️ Closed issue [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
-4. 🗣 Commented on [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
-5. 🎉 Merged PR [#24](https://github.com/Metapass/metapass-v2/pull/24) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 💪 Opened PR [#1832](https://github.com/project-serum/anchor/pull/1832) in [project-serum/anchor](https://github.com/project-serum/anchor)
+2. 💪 Opened PR [#241](https://github.com/metaplex-foundation/docs/pull/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
+3. 🎉 Merged PR [#25](https://github.com/Metapass/metapass-v2/pull/25) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❗️ Closed issue [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
+5. 🗣 Commented on [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

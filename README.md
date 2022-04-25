@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#678](https://github.com/project-serum/anchor/issues/678) in [project-serum/anchor](https://github.com/project-serum/anchor)
-2. 💪 Opened PR [#1832](https://github.com/project-serum/anchor/pull/1832) in [project-serum/anchor](https://github.com/project-serum/anchor)
-3. 💪 Opened PR [#241](https://github.com/metaplex-foundation/docs/pull/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
-4. 🎉 Merged PR [#25](https://github.com/Metapass/metapass-v2/pull/25) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. ❗️ Closed issue [#1323](https://github.com/withfig/fig/issues/1323) in [withfig/fig](https://github.com/withfig/fig)
+1. 🗣 Commented on [#1266](https://github.com/project-serum/anchor/issues/1266) in [project-serum/anchor](https://github.com/project-serum/anchor)
+2. 🗣 Commented on [#678](https://github.com/project-serum/anchor/issues/678) in [project-serum/anchor](https://github.com/project-serum/anchor)
+3. 💪 Opened PR [#1832](https://github.com/project-serum/anchor/pull/1832) in [project-serum/anchor](https://github.com/project-serum/anchor)
+4. 💪 Opened PR [#241](https://github.com/metaplex-foundation/docs/pull/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
+5. 🎉 Merged PR [#25](https://github.com/Metapass/metapass-v2/pull/25) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#172](https://github.com/solana-developers/solana-cookbook/issues/172) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-2. 💪 Opened PR [#107](https://github.com/saurabhnemade/react-twitter-embed/pull/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
-3. 🗣 Commented on [#1266](https://github.com/project-serum/anchor/issues/1266) in [project-serum/anchor](https://github.com/project-serum/anchor)
-4. 🗣 Commented on [#678](https://github.com/project-serum/anchor/issues/678) in [project-serum/anchor](https://github.com/project-serum/anchor)
-5. 💪 Opened PR [#1832](https://github.com/project-serum/anchor/pull/1832) in [project-serum/anchor](https://github.com/project-serum/anchor)
+1. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. ❗️ Closed issue [#172](https://github.com/solana-developers/solana-cookbook/issues/172) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+4. 💪 Opened PR [#107](https://github.com/saurabhnemade/react-twitter-embed/pull/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
+5. 🗣 Commented on [#1266](https://github.com/project-serum/anchor/issues/1266) in [project-serum/anchor](https://github.com/project-serum/anchor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

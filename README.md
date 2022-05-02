@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-2. 💪 Opened PR [#6](https://github.com/cronos-so/anchor/pull/6) in [cronos-so/anchor](https://github.com/cronos-so/anchor)
-3. 💪 Opened PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-4. ❗️ Opened issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-5. 💪 Opened PR [#1860](https://github.com/project-serum/anchor/pull/1860) in [project-serum/anchor](https://github.com/project-serum/anchor)
+1. 🗣 Commented on [#1669](https://github.com/project-serum/anchor/issues/1669) in [project-serum/anchor](https://github.com/project-serum/anchor)
+2. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+3. 💪 Opened PR [#6](https://github.com/cronos-so/anchor/pull/6) in [cronos-so/anchor](https://github.com/cronos-so/anchor)
+4. 💪 Opened PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+5. ❗️ Opened issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

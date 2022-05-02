@@ -26,10 +26,10 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-2. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. ❗️ Opened issue [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+1. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. ❗️ Opened issue [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 5. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 

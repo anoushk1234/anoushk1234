@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-2. 💪 Opened PR [#1860](https://github.com/project-serum/anchor/pull/1860) in [project-serum/anchor](https://github.com/project-serum/anchor)
-3. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 💪 Opened PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+2. ❗️ Opened issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+3. 💪 Opened PR [#1860](https://github.com/project-serum/anchor/pull/1860) in [project-serum/anchor](https://github.com/project-serum/anchor)
+4. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

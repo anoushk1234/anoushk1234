@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-3. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-4. 🗣 Commented on [#22](https://github.com/cronos-so/cronos/issues/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-5. 🗣 Commented on [#1669](https://github.com/project-serum/anchor/issues/1669) in [project-serum/anchor](https://github.com/project-serum/anchor)
+1. ❌ Closed PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+2. 💪 Opened PR [#452](https://github.com/nextui-org/nextui/pull/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+3. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+5. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

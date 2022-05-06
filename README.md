@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-2. ❌ Closed PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-3. 💪 Opened PR [#452](https://github.com/nextui-org/nextui/pull/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+1. 🗣 Commented on [#452](https://github.com/nextui-org/nextui/issues/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. ❌ Closed PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+4. 💪 Opened PR [#452](https://github.com/nextui-org/nextui/pull/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#441](https://github.com/nextui-org/nextui/issues/441) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

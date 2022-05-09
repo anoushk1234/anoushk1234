@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#935](https://github.com/nektos/act/issues/935) in [nektos/act](https://github.com/nektos/act)
-2. ❗️ Closed issue [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-3. 🗣 Commented on [#452](https://github.com/nextui-org/nextui/issues/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. ❌ Closed PR [#22](https://github.com/cronos-so/cronos/pull/22) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+1. 🗣 Commented on [#1](https://github.com/create-anchor-app/cli/issues/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
+2. 🎉 Merged PR [#1](https://github.com/create-anchor-app/cli/pull/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
+3. 🗣 Commented on [#935](https://github.com/nektos/act/issues/935) in [nektos/act](https://github.com/nektos/act)
+4. ❗️ Closed issue [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+5. 🗣 Commented on [#452](https://github.com/nextui-org/nextui/issues/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

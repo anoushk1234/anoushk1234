@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/create-anchor-app/cli/issues/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
-2. 🎉 Merged PR [#1](https://github.com/create-anchor-app/cli/pull/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
-3. 🗣 Commented on [#935](https://github.com/nektos/act/issues/935) in [nektos/act](https://github.com/nektos/act)
-4. ❗️ Closed issue [#1](https://github.com/anoushk1234/metaplex-anchor-nft/issues/1) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. 🗣 Commented on [#452](https://github.com/nextui-org/nextui/issues/452) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🎉 Merged PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
+2. 💪 Opened PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
+3. 🗣 Commented on [#1](https://github.com/create-anchor-app/cli/issues/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
+4. 🎉 Merged PR [#1](https://github.com/create-anchor-app/cli/pull/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
+5. 🗣 Commented on [#935](https://github.com/nektos/act/issues/935) in [nektos/act](https://github.com/nektos/act)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

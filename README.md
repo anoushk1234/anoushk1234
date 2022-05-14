@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-2. 🎉 Merged PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
-3. 💪 Opened PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
-4. 🗣 Commented on [#1](https://github.com/create-anchor-app/cli/issues/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
-5. 🎉 Merged PR [#1](https://github.com/create-anchor-app/cli/pull/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
+1. 💪 Opened PR [#1](https://github.com/ayshptk/ayushdotsh/pull/1) in [ayshptk/ayushdotsh](https://github.com/ayshptk/ayushdotsh)
+2. 🗣 Commented on [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. 🎉 Merged PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
+4. 💪 Opened PR [#2](https://github.com/Metapass/metapass-contracts/pull/2) in [Metapass/metapass-contracts](https://github.com/Metapass/metapass-contracts)
+5. 🗣 Commented on [#1](https://github.com/create-anchor-app/cli/issues/1) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

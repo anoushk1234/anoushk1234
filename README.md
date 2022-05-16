@@ -40,6 +40,7 @@
 - [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
 - [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
 - [**Create-anchor-app**](https://github.com/create-anchor-app/cli): A CLI tool to quickly create an anchor program from templates and setup anchor dev environment.
+- [GitSol](https://gitsol.xyz): An onchain version control tool built on Solana and filecoin
 - **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
   - [Landing Page](https://fanvest.in)
   - [Dapp](https://apha.fanvest.in)

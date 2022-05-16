@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-2. 🗣 Commented on [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-3. 🎉 Merged PR [#4](https://github.com/anoushk1234/metaplex-anchor-nft/pull/4) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-4. 💪 Opened PR [#1](https://github.com/ayshptk/ayushdotsh/pull/1) in [ayshptk/ayushdotsh](https://github.com/ayshptk/ayushdotsh)
-5. 🗣 Commented on [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+1. 🗣 Commented on [#3](https://github.com/anoushk1234/metaplex-anchor-nft/issues/3) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. ❗️ Closed issue [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. 🗣 Commented on [#2](https://github.com/anoushk1234/metaplex-anchor-nft/issues/2) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+4. 🎉 Merged PR [#4](https://github.com/anoushk1234/metaplex-anchor-nft/pull/4) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+5. 💪 Opened PR [#1](https://github.com/ayshptk/ayushdotsh/pull/1) in [ayshptk/ayushdotsh](https://github.com/ayshptk/ayushdotsh)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

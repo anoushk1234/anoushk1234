@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/create-anchor-app/nft-staking/pull/1) in [create-anchor-app/nft-staking](https://github.com/create-anchor-app/nft-staking)
-2. 🎉 Merged PR [#2](https://github.com/create-anchor-app/stake-spl/pull/2) in [create-anchor-app/stake-spl](https://github.com/create-anchor-app/stake-spl)
-3. 🗣 Commented on [#3](https://github.com/create-anchor-app/cli/issues/3) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
-4. 🎉 Merged PR [#3](https://github.com/create-anchor-app/cli/pull/3) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
-5. 🎉 Merged PR [#1](https://github.com/create-anchor-app/mint-nft/pull/1) in [create-anchor-app/mint-nft](https://github.com/create-anchor-app/mint-nft)
+1. ❗️ Closed issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+2. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+3. 🎉 Merged PR [#1](https://github.com/create-anchor-app/nft-staking/pull/1) in [create-anchor-app/nft-staking](https://github.com/create-anchor-app/nft-staking)
+4. 🎉 Merged PR [#2](https://github.com/create-anchor-app/stake-spl/pull/2) in [create-anchor-app/stake-spl](https://github.com/create-anchor-app/stake-spl)
+5. 🗣 Commented on [#3](https://github.com/create-anchor-app/cli/issues/3) in [create-anchor-app/cli](https://github.com/create-anchor-app/cli)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

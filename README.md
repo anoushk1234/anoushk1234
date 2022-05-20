@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
-2. 🗣 Commented on [#209](https://github.com/semantic-release/npm/issues/209) in [semantic-release/npm](https://github.com/semantic-release/npm)
-3. ❗️ Closed issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-4. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
-5. 🎉 Merged PR [#1](https://github.com/create-anchor-app/nft-staking/pull/1) in [create-anchor-app/nft-staking](https://github.com/create-anchor-app/nft-staking)
+1. ❗️ Opened issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
+2. 💪 Opened PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+3. 🗣 Commented on [#209](https://github.com/semantic-release/npm/issues/209) in [semantic-release/npm](https://github.com/semantic-release/npm)
+4. ❗️ Closed issue [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
+5. 🗣 Commented on [#21](https://github.com/cronos-so/cronos/issues/21) in [cronos-so/cronos](https://github.com/cronos-so/cronos)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

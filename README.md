@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-2. 🗣 Commented on [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-3. 🗣 Commented on [#438](https://github.com/metaplex-foundation/metaplex-program-library/issues/438) in [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library)
-4. ❗️ Opened issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-5. 💪 Opened PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+1. 💪 Opened PR [#2](https://github.com/ayshptk/msngr/pull/2) in [ayshptk/msngr](https://github.com/ayshptk/msngr)
+2. ❗️ Closed issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
+3. 🗣 Commented on [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
+4. 🗣 Commented on [#438](https://github.com/metaplex-foundation/metaplex-program-library/issues/438) in [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library)
+5. ❗️ Opened issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1242](https://github.com/withfig/autocomplete/issues/1242) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-2. 💪 Opened PR [#2](https://github.com/ayshptk/msngr/pull/2) in [ayshptk/msngr](https://github.com/ayshptk/msngr)
-3. ❗️ Closed issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-4. 🗣 Commented on [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-5. 🗣 Commented on [#438](https://github.com/metaplex-foundation/metaplex-program-library/issues/438) in [metaplex-foundation/metaplex-program-library](https://github.com/metaplex-foundation/metaplex-program-library)
+1. 🎉 Merged PR [#28](https://github.com/Metapass/metapass-v2/pull/28) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. ❗️ Opened issue [#1242](https://github.com/withfig/autocomplete/issues/1242) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+3. 💪 Opened PR [#2](https://github.com/ayshptk/msngr/pull/2) in [ayshptk/msngr](https://github.com/ayshptk/msngr)
+4. ❗️ Closed issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
+5. 🗣 Commented on [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

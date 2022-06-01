@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/Metapass/metapass-v2/pull/28) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. ❗️ Opened issue [#1242](https://github.com/withfig/autocomplete/issues/1242) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-3. 💪 Opened PR [#2](https://github.com/ayshptk/msngr/pull/2) in [ayshptk/msngr](https://github.com/ayshptk/msngr)
-4. ❗️ Closed issue [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
-5. 🗣 Commented on [#51](https://github.com/metaplex-foundation/solita/issues/51) in [metaplex-foundation/solita](https://github.com/metaplex-foundation/solita)
+1. 💪 Opened PR [#1](https://github.com/anoushk1234/solana-cookbook/pull/1) in [anoushk1234/solana-cookbook](https://github.com/anoushk1234/solana-cookbook)
+2. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+3. 🎉 Merged PR [#28](https://github.com/Metapass/metapass-v2/pull/28) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❗️ Opened issue [#1242](https://github.com/withfig/autocomplete/issues/1242) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+5. 💪 Opened PR [#2](https://github.com/ayshptk/msngr/pull/2) in [ayshptk/msngr](https://github.com/ayshptk/msngr)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

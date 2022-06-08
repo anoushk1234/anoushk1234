@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-2. 💪 Opened PR [#372](https://github.com/solana-developers/solana-cookbook/pull/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-3. 💪 Opened PR [#1](https://github.com/anoushk1234/solana-cookbook/pull/1) in [anoushk1234/solana-cookbook](https://github.com/anoushk1234/solana-cookbook)
-4. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-5. 🎉 Merged PR [#28](https://github.com/Metapass/metapass-v2/pull/28) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. ❗️ Opened issue [#35](https://github.com/rprieto/mocha-steps/issues/35) in [rprieto/mocha-steps](https://github.com/rprieto/mocha-steps)
+2. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+3. 💪 Opened PR [#372](https://github.com/solana-developers/solana-cookbook/pull/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+4. 💪 Opened PR [#1](https://github.com/anoushk1234/solana-cookbook/pull/1) in [anoushk1234/solana-cookbook](https://github.com/anoushk1234/solana-cookbook)
+5. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

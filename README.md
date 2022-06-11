@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-2. ❗️ Closed issue [#35](https://github.com/rprieto/mocha-steps/issues/35) in [rprieto/mocha-steps](https://github.com/rprieto/mocha-steps)
-3. ❗️ Opened issue [#35](https://github.com/rprieto/mocha-steps/issues/35) in [rprieto/mocha-steps](https://github.com/rprieto/mocha-steps)
-4. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-5. 💪 Opened PR [#372](https://github.com/solana-developers/solana-cookbook/pull/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+1. 🗣 Commented on [#1932](https://github.com/project-serum/anchor/issues/1932) in [project-serum/anchor](https://github.com/project-serum/anchor)
+2. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+3. ❗️ Closed issue [#35](https://github.com/rprieto/mocha-steps/issues/35) in [rprieto/mocha-steps](https://github.com/rprieto/mocha-steps)
+4. ❗️ Opened issue [#35](https://github.com/rprieto/mocha-steps/issues/35) in [rprieto/mocha-steps](https://github.com/rprieto/mocha-steps)
+5. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

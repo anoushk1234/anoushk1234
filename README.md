@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/Metapass/metapass-v2/issues/13) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#1932](https://github.com/project-serum/anchor/issues/1932) in [project-serum/anchor](https://github.com/project-serum/anchor)
-3. ❗️ Opened issue [#2](https://github.com/sudhamjayanthi/smart-identities/issues/2) in [sudhamjayanthi/smart-identities](https://github.com/sudhamjayanthi/smart-identities)
-4. 🗣 Commented on [#1932](https://github.com/project-serum/anchor/issues/1932) in [project-serum/anchor](https://github.com/project-serum/anchor)
-5. 🗣 Commented on [#365](https://github.com/solana-developers/solana-cookbook/issues/365) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+1. 🗣 Commented on [#372](https://github.com/solana-developers/solana-cookbook/issues/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+2. ❗️ Closed issue [#13](https://github.com/Metapass/metapass-v2/issues/13) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#1932](https://github.com/project-serum/anchor/issues/1932) in [project-serum/anchor](https://github.com/project-serum/anchor)
+4. ❗️ Opened issue [#2](https://github.com/sudhamjayanthi/smart-identities/issues/2) in [sudhamjayanthi/smart-identities](https://github.com/sudhamjayanthi/smart-identities)
+5. 🗣 Commented on [#1932](https://github.com/project-serum/anchor/issues/1932) in [project-serum/anchor](https://github.com/project-serum/anchor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9855](https://github.com/solana-labs/solana/issues/9855) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 🗣 Commented on [#1981](https://github.com/coral-xyz/anchor/issues/1981) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-3. 🎉 Merged PR [#3](https://github.com/Metapass/metapass-sdk/pull/3) in [Metapass/metapass-sdk](https://github.com/Metapass/metapass-sdk)
-4. 🗣 Commented on [#372](https://github.com/solana-developers/solana-cookbook/issues/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-5. ❗️ Closed issue [#13](https://github.com/Metapass/metapass-v2/issues/13) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#372](https://github.com/solana-developers/solana-cookbook/issues/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+2. 🗣 Commented on [#9855](https://github.com/solana-labs/solana/issues/9855) in [solana-labs/solana](https://github.com/solana-labs/solana)
+3. 🗣 Commented on [#1981](https://github.com/coral-xyz/anchor/issues/1981) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+4. 🎉 Merged PR [#3](https://github.com/Metapass/metapass-sdk/pull/3) in [Metapass/metapass-sdk](https://github.com/Metapass/metapass-sdk)
+5. 🗣 Commented on [#372](https://github.com/solana-developers/solana-cookbook/issues/372) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#443](https://github.com/solana-labs/wallet-adapter/issues/443) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+1. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. ❗️ Closed issue [#443](https://github.com/solana-labs/wallet-adapter/issues/443) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 3. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-4. 🗣 Commented on [#3](https://github.com/anoushk1234/metaplex-anchor-nft/issues/3) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+4. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+5. 🗣 Commented on [#3](https://github.com/anoushk1234/metaplex-anchor-nft/issues/3) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

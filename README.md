@@ -28,9 +28,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/coral-xyz/apr-ui/issues/10) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
 2. 🗣 Commented on [#10](https://github.com/coral-xyz/apr-ui/issues/10) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-3. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-4. 💪 Opened PR [#19](https://github.com/coral-xyz/apr-ui/pull/19) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-5. 🎉 Merged PR [#30](https://github.com/Metapass/metapass-v2/pull/30) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#10](https://github.com/coral-xyz/apr-ui/issues/10) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+4. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+5. 💪 Opened PR [#19](https://github.com/coral-xyz/apr-ui/pull/19) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

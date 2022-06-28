@@ -26,10 +26,10 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/Metapass/metapass-v2/pull/30) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-3. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-4. ❗️ Closed issue [#443](https://github.com/solana-labs/wallet-adapter/issues/443) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+1. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+2. 💪 Opened PR [#19](https://github.com/coral-xyz/apr-ui/pull/19) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+3. 🎉 Merged PR [#30](https://github.com/Metapass/metapass-v2/pull/30) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 5. 🗣 Commented on [#5](https://github.com/anoushk1234/metaplex-anchor-nft/issues/5) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 

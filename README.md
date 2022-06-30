@@ -26,10 +26,10 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-2. 💪 Opened PR [#20](https://github.com/coral-xyz/apr-ui/pull/20) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-3. 🗣 Commented on [#19](https://github.com/coral-xyz/apr-ui/issues/19) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-4. 🗣 Commented on [#12](https://github.com/coral-xyz/apr-ui/issues/12) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+1. 🗣 Commented on [#13](https://github.com/coral-xyz/apr-ui/issues/13) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+2. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+3. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+4. 💪 Opened PR [#20](https://github.com/coral-xyz/apr-ui/pull/20) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
 5. 🗣 Commented on [#19](https://github.com/coral-xyz/apr-ui/issues/19) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
 <!--END_SECTION:activity-->
 

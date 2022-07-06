@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-2. ❗️ Opened issue [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-3. 🗣 Commented on [#13](https://github.com/coral-xyz/apr-ui/issues/13) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-4. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-5. 🗣 Commented on [#17](https://github.com/coral-xyz/apr-ui/issues/17) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+1. 🎉 Merged PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+3. ❗️ Opened issue [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+4. 🗣 Commented on [#13](https://github.com/coral-xyz/apr-ui/issues/13) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+5. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

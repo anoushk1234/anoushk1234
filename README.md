@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/anoushk1234/apr-ui/pull/1) in [anoushk1234/apr-ui](https://github.com/anoushk1234/apr-ui)
-2. 🎉 Merged PR [#32](https://github.com/Metapass/metapass-v2/pull/32) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
-5. ❗️ Opened issue [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
+1. 💪 Opened PR [#23](https://github.com/coral-xyz/apr-ui/pull/23) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+2. 💪 Opened PR [#1](https://github.com/anoushk1234/apr-ui/pull/1) in [anoushk1234/apr-ui](https://github.com/anoushk1234/apr-ui)
+3. 🎉 Merged PR [#32](https://github.com/Metapass/metapass-v2/pull/32) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🎉 Merged PR [#31](https://github.com/Metapass/metapass-v2/pull/31) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🗣 Commented on [#44](https://github.com/warengonzaga/gathertown.js/issues/44) in [warengonzaga/gathertown.js](https://github.com/warengonzaga/gathertown.js)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

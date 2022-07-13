@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Metapass/metapass-v2/pull/36) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#3](https://github.com/coral-xyz/sealevel-attacks/issues/3) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
-3. 💪 Opened PR [#15](https://github.com/coral-xyz/sealevel-attacks/pull/15) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
-4. 🗣 Commented on [#3](https://github.com/coral-xyz/sealevel-attacks/issues/3) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
-5. 💪 Opened PR [#25](https://github.com/coral-xyz/apr-ui/pull/25) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+1. 🎉 Merged PR [#37](https://github.com/Metapass/metapass-v2/pull/37) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🎉 Merged PR [#36](https://github.com/Metapass/metapass-v2/pull/36) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#3](https://github.com/coral-xyz/sealevel-attacks/issues/3) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
+4. 💪 Opened PR [#15](https://github.com/coral-xyz/sealevel-attacks/pull/15) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
+5. 🗣 Commented on [#3](https://github.com/coral-xyz/sealevel-attacks/issues/3) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

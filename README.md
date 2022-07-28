@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/Metapass/metapass-v2/pull/44) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#44](https://github.com/Metapass/metapass-v2/pull/44) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#41](https://github.com/Metapass/metapass-v2/pull/41) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#42](https://github.com/Metapass/metapass-v2/pull/42) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#42](https://github.com/Metapass/metapass-v2/pull/42) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#9](https://github.com/anoushk1234/metaplex-anchor-nft/issues/9) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. 🗣 Commented on [#7](https://github.com/anoushk1234/metaplex-anchor-nft/issues/7) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. ❗️ Closed issue [#8](https://github.com/anoushk1234/metaplex-anchor-nft/issues/8) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+4. 🗣 Commented on [#7](https://github.com/anoushk1234/metaplex-anchor-nft/issues/7) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+5. ❗️ Closed issue [#3](https://github.com/anoushk1234/metaplex-anchor-nft/issues/3) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

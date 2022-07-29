@@ -37,7 +37,7 @@
 
 - [**Dakiya**](https://dakiya.xyz): A secure p2p messaging platform and protocol built on ethereum and polygon
 - [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
-- [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon to token gate online and IRL events
+- [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon and solana to token gate online and IRL events
 - [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
 - [**Create-anchor-app**](https://github.com/create-anchor-app/cli): A CLI tool to quickly create an anchor program from templates and setup anchor dev environment.
 - [**GitSol**](https://gitsol.xyz): An onchain version control tool built on Solana and filecoin

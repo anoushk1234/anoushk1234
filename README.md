@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#127](https://github.com/Unboxed-Software/solana-course/issues/127) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-2. ❗️ Opened issue [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-3. 🗣 Commented on [#157206](https://github.com/microsoft/vscode/issues/157206) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. ❗️ Opened issue [#128](https://github.com/Unboxed-Software/solana-course/issues/128) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+2. ❗️ Opened issue [#127](https://github.com/Unboxed-Software/solana-course/issues/127) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+3. ❗️ Opened issue [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+4. 🗣 Commented on [#157206](https://github.com/microsoft/vscode/issues/157206) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

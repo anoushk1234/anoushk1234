@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-2. ❗️ Opened issue [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-3. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-4. ❗️ Closed issue [#128](https://github.com/Unboxed-Software/solana-course/issues/128) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-5. ❗️ Opened issue [#128](https://github.com/Unboxed-Software/solana-course/issues/128) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+1. 🗣 Commented on [#1](https://github.com/Unboxed-Software/solana-hello-world-client/issues/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
+2. 💪 Opened PR [#1](https://github.com/Unboxed-Software/solana-hello-world-client/pull/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
+3. 🗣 Commented on [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+4. ❗️ Opened issue [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+5. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

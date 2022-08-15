@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157206](https://github.com/microsoft/vscode/issues/157206) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 💪 Opened PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🗣 Commented on [#9](https://github.com/anoushk1234/metaplex-anchor-nft/issues/9) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. 🗣 Commented on [#7](https://github.com/anoushk1234/metaplex-anchor-nft/issues/7) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+1. ❗️ Opened issue [#127](https://github.com/Unboxed-Software/solana-course/issues/127) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+2. ❗️ Opened issue [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+3. 🗣 Commented on [#157206](https://github.com/microsoft/vscode/issues/157206) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🎉 Merged PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#48](https://github.com/Metapass/metapass-v2/pull/48) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

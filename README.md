@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-2. 🗣 Commented on [#1](https://github.com/Unboxed-Software/solana-hello-world-client/issues/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
-3. 💪 Opened PR [#1](https://github.com/Unboxed-Software/solana-hello-world-client/pull/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
-4. 🗣 Commented on [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-5. ❗️ Opened issue [#129](https://github.com/Unboxed-Software/solana-course/issues/129) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+1. ❌ Closed PR [#1860](https://github.com/coral-xyz/anchor/pull/1860) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+2. ❌ Closed PR [#6](https://github.com/clockwork-xyz/anchor/pull/6) in [clockwork-xyz/anchor](https://github.com/clockwork-xyz/anchor)
+3. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+4. 🗣 Commented on [#1](https://github.com/Unboxed-Software/solana-hello-world-client/issues/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
+5. 💪 Opened PR [#1](https://github.com/Unboxed-Software/solana-hello-world-client/pull/1) in [Unboxed-Software/solana-hello-world-client](https://github.com/Unboxed-Software/solana-hello-world-client)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

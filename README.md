@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/Unboxed-Software/solana-course/pull/145) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-2. 🗣 Commented on [#144](https://github.com/Unboxed-Software/solana-course/issues/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-3. 💪 Opened PR [#144](https://github.com/Unboxed-Software/solana-course/pull/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-4. 🗣 Commented on [#532](https://github.com/solana-labs/wallet-adapter/issues/532) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-5. ❌ Closed PR [#1860](https://github.com/coral-xyz/anchor/pull/1860) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+1. ❗️ Opened issue [#30](https://github.com/khrome/ascii-art/issues/30) in [khrome/ascii-art](https://github.com/khrome/ascii-art)
+2. 💪 Opened PR [#145](https://github.com/Unboxed-Software/solana-course/pull/145) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+3. 🗣 Commented on [#144](https://github.com/Unboxed-Software/solana-course/issues/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+4. 💪 Opened PR [#144](https://github.com/Unboxed-Software/solana-course/pull/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+5. 🗣 Commented on [#532](https://github.com/solana-labs/wallet-adapter/issues/532) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

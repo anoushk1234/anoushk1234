@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/zaftzaft/terminal-table/issues/3) in [zaftzaft/terminal-table](https://github.com/zaftzaft/terminal-table)
-2. ❗️ Opened issue [#30](https://github.com/khrome/ascii-art/issues/30) in [khrome/ascii-art](https://github.com/khrome/ascii-art)
-3. 💪 Opened PR [#145](https://github.com/Unboxed-Software/solana-course/pull/145) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-4. 🗣 Commented on [#144](https://github.com/Unboxed-Software/solana-course/issues/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-5. 💪 Opened PR [#144](https://github.com/Unboxed-Software/solana-course/pull/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+1. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+2. ❗️ Opened issue [#3](https://github.com/zaftzaft/terminal-table/issues/3) in [zaftzaft/terminal-table](https://github.com/zaftzaft/terminal-table)
+3. ❗️ Opened issue [#30](https://github.com/khrome/ascii-art/issues/30) in [khrome/ascii-art](https://github.com/khrome/ascii-art)
+4. 💪 Opened PR [#145](https://github.com/Unboxed-Software/solana-course/pull/145) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+5. 🗣 Commented on [#144](https://github.com/Unboxed-Software/solana-course/issues/144) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

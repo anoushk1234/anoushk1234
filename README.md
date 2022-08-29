@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/solana-developers/developer-experience/issues/31) in [solana-developers/developer-experience](https://github.com/solana-developers/developer-experience)
-2. 🗣 Commented on [#241](https://github.com/metaplex-foundation/docs/issues/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
-3. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
-4. ❗️ Opened issue [#3](https://github.com/zaftzaft/terminal-table/issues/3) in [zaftzaft/terminal-table](https://github.com/zaftzaft/terminal-table)
-5. ❗️ Opened issue [#30](https://github.com/khrome/ascii-art/issues/30) in [khrome/ascii-art](https://github.com/khrome/ascii-art)
+1. 💪 Opened PR [#56](https://github.com/Metapass/metapass-v2/pull/56) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🗣 Commented on [#31](https://github.com/solana-developers/developer-experience/issues/31) in [solana-developers/developer-experience](https://github.com/solana-developers/developer-experience)
+3. 🗣 Commented on [#241](https://github.com/metaplex-foundation/docs/issues/241) in [metaplex-foundation/docs](https://github.com/metaplex-foundation/docs)
+4. 🗣 Commented on [#126](https://github.com/Unboxed-Software/solana-course/issues/126) in [Unboxed-Software/solana-course](https://github.com/Unboxed-Software/solana-course)
+5. ❗️ Opened issue [#3](https://github.com/zaftzaft/terminal-table/issues/3) in [zaftzaft/terminal-table](https://github.com/zaftzaft/terminal-table)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

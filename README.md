@@ -45,7 +45,7 @@
 - [**Solana Relayer**](https://github.com/anoushk1234/solana-relayer): A Gasless transaction relayer for Solana with Durable Nonces to ensure reliable relaying 
 - **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
   - [Landing Page](https://fanvest.in)
-  - [Dapp](https://apha.fanvest.in)
+  - [Dapp](https://alpha.fanvest.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

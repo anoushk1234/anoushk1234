@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/Metapass/metapass-v2/pull/59) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#58](https://github.com/Metapass/metapass-v2/issues/58) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#55](https://github.com/Metapass/metapass-v2/pull/55) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🗣 Commented on [#31](https://github.com/solana-developers/developer-experience/issues/31) in [solana-developers/developer-experience](https://github.com/solana-developers/developer-experience)
-5. 💪 Opened PR [#56](https://github.com/Metapass/metapass-v2/pull/56) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#12](https://github.com/coral-xyz/apr-ui/issues/12) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+2. 💪 Opened PR [#59](https://github.com/Metapass/metapass-v2/pull/59) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#58](https://github.com/Metapass/metapass-v2/issues/58) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🎉 Merged PR [#55](https://github.com/Metapass/metapass-v2/pull/55) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🗣 Commented on [#31](https://github.com/solana-developers/developer-experience/issues/31) in [solana-developers/developer-experience](https://github.com/solana-developers/developer-experience)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

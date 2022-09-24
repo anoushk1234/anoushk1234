@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/Metapass/metapass-v2/pull/63) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#63](https://github.com/Metapass/metapass-v2/pull/63) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🗣 Commented on [#12](https://github.com/coral-xyz/apr-ui/issues/12) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
-4. 💪 Opened PR [#59](https://github.com/Metapass/metapass-v2/pull/59) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🗣 Commented on [#58](https://github.com/Metapass/metapass-v2/issues/58) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#60](https://github.com/Metapass/metapass-v2/issues/60) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🎉 Merged PR [#63](https://github.com/Metapass/metapass-v2/pull/63) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 💪 Opened PR [#63](https://github.com/Metapass/metapass-v2/pull/63) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🗣 Commented on [#12](https://github.com/coral-xyz/apr-ui/issues/12) in [coral-xyz/apr-ui](https://github.com/coral-xyz/apr-ui)
+5. 💪 Opened PR [#59](https://github.com/Metapass/metapass-v2/pull/59) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/Web3Auth/web3auth-docs/pull/182) in [Web3Auth/web3auth-docs](https://github.com/Web3Auth/web3auth-docs)
-2. 💪 Opened PR [#68](https://github.com/Metapass/metapass-v2/pull/68) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. ❌ Closed PR [#67](https://github.com/Metapass/metapass-v2/pull/67) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 💪 Opened PR [#67](https://github.com/Metapass/metapass-v2/pull/67) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🎉 Merged PR [#66](https://github.com/Metapass/metapass-v2/pull/66) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 💪 Opened PR [#4](https://github.com/think-divergent/pookie-bot/pull/4) in [think-divergent/pookie-bot](https://github.com/think-divergent/pookie-bot)
+2. 💪 Opened PR [#182](https://github.com/Web3Auth/web3auth-docs/pull/182) in [Web3Auth/web3auth-docs](https://github.com/Web3Auth/web3auth-docs)
+3. 💪 Opened PR [#68](https://github.com/Metapass/metapass-v2/pull/68) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❌ Closed PR [#67](https://github.com/Metapass/metapass-v2/pull/67) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#67](https://github.com/Metapass/metapass-v2/pull/67) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

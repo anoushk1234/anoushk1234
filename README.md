@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/clockwork-xyz/clockwork/issues/59) in [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork)
-2. ❗️ Closed issue [#71](https://github.com/Metapass/metapass-v2/issues/71) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. ❗️ Opened issue [#23](https://github.com/coral-xyz/sealevel-attacks/issues/23) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
-4. 🗣 Commented on [#71](https://github.com/Metapass/metapass-v2/issues/71) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. ❌ Closed PR [#57](https://github.com/Metapass/metapass-v2/pull/57) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#52](https://github.com/switchboard-xyz/switchboard-v2/issues/52) in [switchboard-xyz/switchboard-v2](https://github.com/switchboard-xyz/switchboard-v2)
+2. 🗣 Commented on [#59](https://github.com/clockwork-xyz/clockwork/issues/59) in [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork)
+3. ❗️ Closed issue [#71](https://github.com/Metapass/metapass-v2/issues/71) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❗️ Opened issue [#23](https://github.com/coral-xyz/sealevel-attacks/issues/23) in [coral-xyz/sealevel-attacks](https://github.com/coral-xyz/sealevel-attacks)
+5. 🗣 Commented on [#71](https://github.com/Metapass/metapass-v2/issues/71) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

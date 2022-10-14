@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoushk</h1>
-<h4 align="center">A passionate builder🛠</h4>
+<h4 align="center">A passionate builder 🛠</h4>
 
 <h3 align="center">Co - founder @ <span style="color:white">Metapass</span></h3>
 

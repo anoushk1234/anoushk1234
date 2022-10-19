@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/anoushk1234/metaplex-anchor-nft/issues/10) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-2. 🗣 Commented on [#60](https://github.com/Metapass/metapass-v2/issues/60) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🗣 Commented on [#52](https://github.com/switchboard-xyz/switchboard-v2/issues/52) in [switchboard-xyz/switchboard-v2](https://github.com/switchboard-xyz/switchboard-v2)
-4. 🗣 Commented on [#59](https://github.com/clockwork-xyz/clockwork/issues/59) in [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork)
-5. ❗️ Closed issue [#71](https://github.com/Metapass/metapass-v2/issues/71) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🎉 Merged PR [#78](https://github.com/Metapass/metapass-v2/pull/78) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🎉 Merged PR [#77](https://github.com/Metapass/metapass-v2/pull/77) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. ❌ Reopened PR [#78](https://github.com/Metapass/metapass-v2/pull/78) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. ❌ Reopened PR [#77](https://github.com/Metapass/metapass-v2/pull/77) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. ❌ Closed PR [#79](https://github.com/Metapass/metapass-v2/pull/79) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

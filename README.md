@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/Metapass/metapass-v2/pull/91) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#91](https://github.com/Metapass/metapass-v2/pull/91) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#90](https://github.com/Metapass/metapass-v2/pull/90) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 💪 Opened PR [#2](https://github.com/Metapass/metapass/pull/2) in [Metapass/metapass](https://github.com/Metapass/metapass)
-5. 💪 Opened PR [#90](https://github.com/Metapass/metapass-v2/pull/90) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🎉 Merged PR [#3](https://github.com/Metapass/metapass/pull/3) in [Metapass/metapass](https://github.com/Metapass/metapass)
+2. 🎉 Merged PR [#2](https://github.com/Metapass/metapass/pull/2) in [Metapass/metapass](https://github.com/Metapass/metapass)
+3. 🎉 Merged PR [#92](https://github.com/Metapass/metapass-v2/pull/92) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#92](https://github.com/Metapass/metapass-v2/pull/92) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#91](https://github.com/Metapass/metapass-v2/pull/91) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

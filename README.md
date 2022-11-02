@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/coral-xyz/xnft-quickstart/pull/6) in [coral-xyz/xnft-quickstart](https://github.com/coral-xyz/xnft-quickstart)
-2. ❗️ Opened issue [#5](https://github.com/coral-xyz/xnft-quickstart/issues/5) in [coral-xyz/xnft-quickstart](https://github.com/coral-xyz/xnft-quickstart)
-3. 🎉 Merged PR [#97](https://github.com/Metapass/metapass-v2/pull/97) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 💪 Opened PR [#97](https://github.com/Metapass/metapass-v2/pull/97) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🎉 Merged PR [#96](https://github.com/Metapass/metapass-v2/pull/96) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 💪 Opened PR [#6](https://github.com/coral-xyz/xnft-quickstart/pull/6) in [coral-xyz/xnft-quickstart](https://github.com/coral-xyz/xnft-quickstart)
+3. ❗️ Opened issue [#5](https://github.com/coral-xyz/xnft-quickstart/issues/5) in [coral-xyz/xnft-quickstart](https://github.com/coral-xyz/xnft-quickstart)
+4. 🎉 Merged PR [#97](https://github.com/Metapass/metapass-v2/pull/97) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#97](https://github.com/Metapass/metapass-v2/pull/97) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

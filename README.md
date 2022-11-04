@@ -41,8 +41,9 @@
 - [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
 - [**Create-anchor-app**](https://github.com/create-anchor-app/cli): A CLI tool to quickly create an anchor program from templates and setup anchor dev environment.
 - [**GitSol**](https://gitsol.xyz): An onchain version control tool built on Solana and filecoin
-- [**Sqlana**](https://github.com/anoushk1234/anchor-prisma-transpiler): A transpiler to convert Solana Program IDL to a prisma schema
+- [**Anchor to Prisma Transpiler**](https://github.com/anoushk1234/anchor-prisma-transpiler): A transpiler to convert Solana Program IDL to a prisma schema
 - [**Solana Relayer**](https://github.com/anoushk1234/solana-relayer): A Gasless transaction relayer for Solana with Durable Nonces to ensure reliable relaying 
+- [**Sqlana Store**](https://sqlana.store): A NoSql Database built on Shadow drive
 - **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
   - [Landing Page](https://fanvest.in)
   - [Dapp](https://alpha.fanvest.in)

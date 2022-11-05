@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#1409](https://github.com/coral-xyz/backpack/issues/1409) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-3. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-4. 💪 Opened PR [#1409](https://github.com/coral-xyz/backpack/pull/1409) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-5. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 💪 Opened PR [#1426](https://github.com/coral-xyz/backpack/pull/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 💪 Opened PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#1409](https://github.com/coral-xyz/backpack/issues/1409) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+4. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+5. 💪 Opened PR [#1409](https://github.com/coral-xyz/backpack/pull/1409) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

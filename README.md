@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1426](https://github.com/coral-xyz/backpack/issues/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-2. 🗣 Commented on [#1426](https://github.com/coral-xyz/backpack/issues/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-3. 🗣 Commented on [#11](https://github.com/Wordcel/wordcel/issues/11) in [Wordcel/wordcel](https://github.com/Wordcel/wordcel)
-4. 💪 Opened PR [#13](https://github.com/Wordcel/wordcel/pull/13) in [Wordcel/wordcel](https://github.com/Wordcel/wordcel)
-5. 🗣 Commented on [#1430](https://github.com/coral-xyz/backpack/issues/1430) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+2. 🗣 Commented on [#107](https://github.com/saurabhnemade/react-twitter-embed/issues/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
+3. ❌ Closed PR [#1](https://github.com/anoushk1234/metapass-web/pull/1) in [anoushk1234/metapass-web](https://github.com/anoushk1234/metapass-web)
+4. ❌ Closed PR [#14](https://github.com/Metapass/metapass-web/pull/14) in [Metapass/metapass-web](https://github.com/Metapass/metapass-web)
+5. ❌ Closed PR [#2958](https://github.com/pennersr/django-allauth/pull/2958) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

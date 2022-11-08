@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1430](https://github.com/coral-xyz/backpack/issues/1430) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-2. 🗣 Commented on [#1402](https://github.com/coral-xyz/backpack/issues/1402) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-3. 🗣 Commented on [#1426](https://github.com/coral-xyz/backpack/issues/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-4. 🗣 Commented on [#1394](https://github.com/coral-xyz/backpack/issues/1394) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-5. 🗣 Commented on [#1426](https://github.com/coral-xyz/backpack/issues/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 🗣 Commented on [#1426](https://github.com/coral-xyz/backpack/issues/1426) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 🗣 Commented on [#11](https://github.com/Wordcel/wordcel/issues/11) in [Wordcel/wordcel](https://github.com/Wordcel/wordcel)
+3. 💪 Opened PR [#13](https://github.com/Wordcel/wordcel/pull/13) in [Wordcel/wordcel](https://github.com/Wordcel/wordcel)
+4. 🗣 Commented on [#1430](https://github.com/coral-xyz/backpack/issues/1430) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+5. 🗣 Commented on [#1402](https://github.com/coral-xyz/backpack/issues/1402) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

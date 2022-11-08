@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
-2. 🗣 Commented on [#107](https://github.com/saurabhnemade/react-twitter-embed/issues/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
-3. ❌ Closed PR [#1](https://github.com/anoushk1234/metapass-web/pull/1) in [anoushk1234/metapass-web](https://github.com/anoushk1234/metapass-web)
-4. ❌ Closed PR [#14](https://github.com/Metapass/metapass-web/pull/14) in [Metapass/metapass-web](https://github.com/Metapass/metapass-web)
-5. ❌ Closed PR [#2958](https://github.com/pennersr/django-allauth/pull/2958) in [pennersr/django-allauth](https://github.com/pennersr/django-allauth)
+1. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+2. ❌ Closed PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+3. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+4. 🗣 Commented on [#107](https://github.com/saurabhnemade/react-twitter-embed/issues/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
+5. ❌ Closed PR [#1](https://github.com/anoushk1234/metapass-web/pull/1) in [anoushk1234/metapass-web](https://github.com/anoushk1234/metapass-web)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

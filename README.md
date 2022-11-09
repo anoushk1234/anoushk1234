@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-2. 🎉 Merged PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-4. ❌ Closed PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
-5. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+1. 🎉 Merged PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 💪 Opened PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🎉 Merged PR [#99](https://github.com/Metapass/metapass-v2/pull/99) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+5. 🎉 Merged PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-3. ❌ Closed PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
-4. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
-5. 🗣 Commented on [#107](https://github.com/saurabhnemade/react-twitter-embed/issues/107) in [saurabhnemade/react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
+1. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 🎉 Merged PR [#98](https://github.com/Metapass/metapass-v2/pull/98) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#1266](https://github.com/coral-xyz/anchor/issues/1266) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+4. ❌ Closed PR [#19](https://github.com/GenesysGo/GitBook/pull/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
+5. 🗣 Commented on [#19](https://github.com/GenesysGo/GitBook/issues/19) in [GenesysGo/GitBook](https://github.com/GenesysGo/GitBook)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

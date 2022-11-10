@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 🎉 Merged PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 💪 Opened PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#99](https://github.com/Metapass/metapass-v2/pull/99) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🗣 Commented on [#1397](https://github.com/coral-xyz/backpack/issues/1397) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 🗣 Commented on [#1449](https://github.com/coral-xyz/backpack/issues/1449) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 🗣 Commented on [#1394](https://github.com/coral-xyz/backpack/issues/1394) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+3. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+4. 🎉 Merged PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#100](https://github.com/Metapass/metapass-v2/pull/100) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

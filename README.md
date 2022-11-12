@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-2. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-3. 🗣 Commented on [#1449](https://github.com/coral-xyz/backpack/issues/1449) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-4. 🗣 Commented on [#1394](https://github.com/coral-xyz/backpack/issues/1394) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-5. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+1. ❗️ Closed issue [#10](https://github.com/anoushk1234/metaplex-anchor-nft/issues/10) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. 🗣 Commented on [#10](https://github.com/anoushk1234/metaplex-anchor-nft/issues/10) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+4. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+5. 🗣 Commented on [#1449](https://github.com/coral-xyz/backpack/issues/1449) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

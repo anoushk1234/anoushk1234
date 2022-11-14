@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
-4. 💪 Opened PR [#106](https://github.com/Metapass/metapass-v2/pull/106) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 🎉 Merged PR [#105](https://github.com/Metapass/metapass-v2/pull/105) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🎉 Merged PR [#108](https://github.com/Metapass/metapass-v2/pull/108) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 🎉 Merged PR [#109](https://github.com/Metapass/metapass-v2/pull/109) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 💪 Opened PR [#109](https://github.com/Metapass/metapass-v2/pull/109) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 🎉 Merged PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 💪 Opened PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

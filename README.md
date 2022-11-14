@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/Metapass/metapass-v2/pull/106) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🎉 Merged PR [#105](https://github.com/Metapass/metapass-v2/pull/105) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 💪 Opened PR [#105](https://github.com/Metapass/metapass-v2/pull/105) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. ❗️ Closed issue [#10](https://github.com/anoushk1234/metaplex-anchor-nft/issues/10) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-5. 🗣 Commented on [#10](https://github.com/anoushk1234/metaplex-anchor-nft/issues/10) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+1. 🎉 Merged PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 💪 Opened PR [#107](https://github.com/Metapass/metapass-v2/pull/107) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🗣 Commented on [#604](https://github.com/solana-labs/wallet-adapter/issues/604) in [solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+4. 💪 Opened PR [#106](https://github.com/Metapass/metapass-v2/pull/106) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#105](https://github.com/Metapass/metapass-v2/pull/105) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

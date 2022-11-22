@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#110](https://github.com/Metapass/metapass-v2/pull/110) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. ❗️ Opened issue [#70](https://github.com/switchboard-xyz/switchboard-v2/issues/70) in [switchboard-xyz/switchboard-v2](https://github.com/switchboard-xyz/switchboard-v2)
-3. 🎉 Merged PR [#108](https://github.com/Metapass/metapass-v2/pull/108) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#109](https://github.com/Metapass/metapass-v2/pull/109) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#109](https://github.com/Metapass/metapass-v2/pull/109) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#70](https://github.com/switchboard-xyz/switchboard-v2/issues/70) in [switchboard-xyz/switchboard-v2](https://github.com/switchboard-xyz/switchboard-v2)
+2. 🎉 Merged PR [#110](https://github.com/Metapass/metapass-v2/pull/110) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. ❗️ Opened issue [#70](https://github.com/switchboard-xyz/switchboard-v2/issues/70) in [switchboard-xyz/switchboard-v2](https://github.com/switchboard-xyz/switchboard-v2)
+4. 🎉 Merged PR [#108](https://github.com/Metapass/metapass-v2/pull/108) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#109](https://github.com/Metapass/metapass-v2/pull/109) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

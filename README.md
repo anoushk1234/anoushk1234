@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#111](https://github.com/Metapass/metapass-v2/pull/111) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 💪 Opened PR [#111](https://github.com/Metapass/metapass-v2/pull/111) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 🎉 Merged PR [#106](https://github.com/Metapass/metapass-v2/pull/106) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#1](https://github.com/anoushk1234/anchor-merkle-tree/pull/1) in [anoushk1234/anchor-merkle-tree](https://github.com/anoushk1234/anchor-merkle-tree)
-5. 💪 Opened PR [#1](https://github.com/anoushk1234/anchor-merkle-tree/pull/1) in [anoushk1234/anchor-merkle-tree](https://github.com/anoushk1234/anchor-merkle-tree)
+1. 🎉 Merged PR [#112](https://github.com/Metapass/metapass-v2/pull/112) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+2. 💪 Opened PR [#112](https://github.com/Metapass/metapass-v2/pull/112) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🎉 Merged PR [#111](https://github.com/Metapass/metapass-v2/pull/111) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#111](https://github.com/Metapass/metapass-v2/pull/111) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#106](https://github.com/Metapass/metapass-v2/pull/106) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

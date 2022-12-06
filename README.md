@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#115](https://github.com/Metapass/metapass-v2/pull/115) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-2. 🎉 Merged PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-3. 💪 Opened PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#113](https://github.com/Metapass/metapass-v2/pull/113) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#113](https://github.com/Metapass/metapass-v2/pull/113) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#59](https://github.com/clockwork-xyz/clockwork/issues/59) in [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork)
+2. 🎉 Merged PR [#115](https://github.com/Metapass/metapass-v2/pull/115) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+3. 🎉 Merged PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+4. 💪 Opened PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+5. 🎉 Merged PR [#113](https://github.com/Metapass/metapass-v2/pull/113) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

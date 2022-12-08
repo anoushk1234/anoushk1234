@@ -35,6 +35,7 @@
 
 ## My Projects  📁
 
+- [**Solana-OTP-Wallet**](https://github.com/anoushk1234/solana-otp-wallet): A Smart Contract Wallet that an be recovered using an OTP sent to your phone
 - [**Dakiya**](https://dakiya.xyz): A secure p2p messaging platform and protocol built on ethereum and polygon
 - [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
 - [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon and solana to token gate online and IRL events

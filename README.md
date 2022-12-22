@@ -27,10 +27,10 @@
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#71](https://github.com/jito-foundation/jito-solana/issues/71) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-2. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-3. 🗣 Commented on [#219](https://github.com/jito-foundation/jito-solana/issues/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-4. 🗣 Commented on [#50](https://github.com/jito-foundation/jito-solana/issues/50) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-5. 🗣 Commented on [#219](https://github.com/jito-foundation/jito-solana/issues/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+2. 🗣 Commented on [#71](https://github.com/jito-foundation/jito-solana/issues/71) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+3. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+4. 🗣 Commented on [#219](https://github.com/jito-foundation/jito-solana/issues/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+5. 🗣 Commented on [#50](https://github.com/jito-foundation/jito-solana/issues/50) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

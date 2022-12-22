@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/anoushk1234/anoushk.xyz/pull/1) in [anoushk1234/anoushk.xyz](https://github.com/anoushk1234/anoushk.xyz)
-2. 🗣 Commented on [#59](https://github.com/clockwork-xyz/clockwork/issues/59) in [clockwork-xyz/clockwork](https://github.com/clockwork-xyz/clockwork)
-3. 🎉 Merged PR [#115](https://github.com/Metapass/metapass-v2/pull/115) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-4. 🎉 Merged PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
-5. 💪 Opened PR [#114](https://github.com/Metapass/metapass-v2/pull/114) in [Metapass/metapass-v2](https://github.com/Metapass/metapass-v2)
+1. 🗣 Commented on [#219](https://github.com/jito-foundation/jito-solana/issues/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+2. 🗣 Commented on [#50](https://github.com/jito-foundation/jito-solana/issues/50) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+3. 🗣 Commented on [#219](https://github.com/jito-foundation/jito-solana/issues/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+4. 💪 Opened PR [#219](https://github.com/jito-foundation/jito-solana/pull/219) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+5. 💪 Opened PR [#1](https://github.com/anoushk1234/anoushk.xyz/pull/1) in [anoushk1234/anoushk.xyz](https://github.com/anoushk1234/anoushk.xyz)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

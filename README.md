@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/jito-foundation/jito-solana/issues/81) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-2. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-3. 💪 Opened PR [#221](https://github.com/jito-foundation/jito-solana/pull/221) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-4. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-5. 🗣 Commented on [#29346](https://github.com/solana-labs/solana/issues/29346) in [solana-labs/solana](https://github.com/solana-labs/solana)
+1. 🗣 Commented on [#73](https://github.com/jito-foundation/jito-solana/issues/73) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+2. 🗣 Commented on [#81](https://github.com/jito-foundation/jito-solana/issues/81) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+3. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+4. 💪 Opened PR [#221](https://github.com/jito-foundation/jito-solana/pull/221) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+5. 🗣 Commented on [#165](https://github.com/jito-foundation/jito-solana/issues/165) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

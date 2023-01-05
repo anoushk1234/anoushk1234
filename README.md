@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29492](https://github.com/solana-labs/solana/issues/29492) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 🗣 Commented on [#221](https://github.com/jito-foundation/jito-solana/issues/221) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-3. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. 🗣 Commented on [#73](https://github.com/jito-foundation/jito-solana/issues/73) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
-5. 🗣 Commented on [#81](https://github.com/jito-foundation/jito-solana/issues/81) in [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana)
+1. 🎉 Merged PR [#5](https://github.com/SuperteamDAO/test-auto-sync/pull/5) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+2. 💪 Opened PR [#5](https://github.com/SuperteamDAO/test-auto-sync/pull/5) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+3. 🎉 Merged PR [#4](https://github.com/SuperteamDAO/test-auto-sync/pull/4) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+4. 💪 Opened PR [#4](https://github.com/SuperteamDAO/test-auto-sync/pull/4) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+5. 🎉 Merged PR [#3](https://github.com/SuperteamDAO/test-auto-sync/pull/3) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

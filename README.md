@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SuperteamDAO/test-auto-sync/pull/5) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-2. 💪 Opened PR [#5](https://github.com/SuperteamDAO/test-auto-sync/pull/5) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-3. 🎉 Merged PR [#4](https://github.com/SuperteamDAO/test-auto-sync/pull/4) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-4. 💪 Opened PR [#4](https://github.com/SuperteamDAO/test-auto-sync/pull/4) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-5. 🎉 Merged PR [#3](https://github.com/SuperteamDAO/test-auto-sync/pull/3) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+1. 🎉 Merged PR [#7](https://github.com/SuperteamDAO/test-auto-sync/pull/7) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+2. 💪 Opened PR [#7](https://github.com/SuperteamDAO/test-auto-sync/pull/7) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+3. 🎉 Merged PR [#6](https://github.com/SuperteamDAO/test-auto-sync/pull/6) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+4. 💪 Opened PR [#6](https://github.com/SuperteamDAO/test-auto-sync/pull/6) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+5. 🎉 Merged PR [#5](https://github.com/SuperteamDAO/test-auto-sync/pull/5) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

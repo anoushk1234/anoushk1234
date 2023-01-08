@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/solana-foundation/solana-improvement-documents/issues/19) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 💪 Opened PR [#19](https://github.com/solana-foundation/solana-improvement-documents/pull/19) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 💪 Opened PR [#26](https://github.com/solana-foundation/specs/pull/26) in [solana-foundation/specs](https://github.com/solana-foundation/specs)
-4. 🎉 Merged PR [#7](https://github.com/SuperteamDAO/test-auto-sync/pull/7) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-5. 💪 Opened PR [#7](https://github.com/SuperteamDAO/test-auto-sync/pull/7) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+1. 🗣 Commented on [#15](https://github.com/coral-xyz/anchor/issues/15) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
+2. 🗣 Commented on [#19](https://github.com/solana-foundation/solana-improvement-documents/issues/19) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. 💪 Opened PR [#19](https://github.com/solana-foundation/solana-improvement-documents/pull/19) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 💪 Opened PR [#26](https://github.com/solana-foundation/specs/pull/26) in [solana-foundation/specs](https://github.com/solana-foundation/specs)
+5. 🎉 Merged PR [#7](https://github.com/SuperteamDAO/test-auto-sync/pull/7) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -26,11 +26,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-2. 🎉 Merged PR [#8](https://github.com/SuperteamDAO/test-auto-sync/pull/8) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-3. 💪 Opened PR [#8](https://github.com/SuperteamDAO/test-auto-sync/pull/8) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
-4. 🗣 Commented on [#15](https://github.com/coral-xyz/anchor/issues/15) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
-5. 🗣 Commented on [#19](https://github.com/solana-foundation/solana-improvement-documents/issues/19) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. ❗️ Opened issue [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
+2. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+3. 🎉 Merged PR [#8](https://github.com/SuperteamDAO/test-auto-sync/pull/8) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+4. 💪 Opened PR [#8](https://github.com/SuperteamDAO/test-auto-sync/pull/8) in [SuperteamDAO/test-auto-sync](https://github.com/SuperteamDAO/test-auto-sync)
+5. 🗣 Commented on [#15](https://github.com/coral-xyz/anchor/issues/15) in [coral-xyz/anchor](https://github.com/coral-xyz/anchor)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

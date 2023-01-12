@@ -9,12 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/anoushk77" target="blank"><img src="https://img.shields.io/twitter/follow/anoushk77?logo=twitter&style=for-the-badge" alt="anoushk77" /></a> </p>
 
-- 🔭 I’m currently working on [Metapass](https://metapasshq.xyz)
-
-- 🌱 I’m currently learning **Anchor lang & Solana dev**
-
-- 💬 Ask me about **Solana and blockchain**
-
 - 📝 I write articles on [anoushk.medium.com](https://anoushk.medium.com)
 
 - 📫 How to reach me **kharangateanoushk04@gmail.com**

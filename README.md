@@ -20,11 +20,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. ❗️ Closed issue [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
-3. 🗣 Commented on [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
-4. ❗️ Opened issue [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
-5. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+2. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. ❗️ Closed issue [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
+4. 🗣 Commented on [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
+5. ❗️ Opened issue [#87](https://github.com/ameliatastic/seahorse-lang/issues/87) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -20,11 +20,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+1. 💪 Opened PR [#12](https://github.com/jito-foundation/geyser-grpc-plugin/pull/12) in [jito-foundation/geyser-grpc-plugin](https://github.com/jito-foundation/geyser-grpc-plugin)
 2. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-3. 💪 Opened PR [#3998](https://github.com/solana-labs/solana-program-library/pull/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-4. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
-5. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+4. 💪 Opened PR [#3998](https://github.com/solana-labs/solana-program-library/pull/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+5. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

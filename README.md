@@ -20,11 +20,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/jito-foundation/geyser-grpc-plugin/pull/12) in [jito-foundation/geyser-grpc-plugin](https://github.com/jito-foundation/geyser-grpc-plugin)
-2. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-3. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-4. 💪 Opened PR [#3998](https://github.com/solana-labs/solana-program-library/pull/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
-5. 🗣 Commented on [#1794](https://github.com/coral-xyz/backpack/issues/1794) in [coral-xyz/backpack](https://github.com/coral-xyz/backpack)
+1. 🎉 Merged PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
+2. 💪 Opened PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
+3. 💪 Opened PR [#12](https://github.com/jito-foundation/geyser-grpc-plugin/pull/12) in [jito-foundation/geyser-grpc-plugin](https://github.com/jito-foundation/geyser-grpc-plugin)
+4. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
+5. 🗣 Commented on [#3998](https://github.com/solana-labs/solana-program-library/issues/3998) in [solana-labs/solana-program-library](https://github.com/solana-labs/solana-program-library)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

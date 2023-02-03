@@ -20,11 +20,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30049](https://github.com/solana-labs/solana/issues/30049) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 🗣 Commented on [#64](https://github.com/ameliatastic/seahorse-lang/issues/64) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
-3. 🎉 Merged PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
-4. 💪 Opened PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
-5. 💪 Opened PR [#12](https://github.com/jito-foundation/geyser-grpc-plugin/pull/12) in [jito-foundation/geyser-grpc-plugin](https://github.com/jito-foundation/geyser-grpc-plugin)
+1. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+2. 🗣 Commented on [#30049](https://github.com/solana-labs/solana/issues/30049) in [solana-labs/solana](https://github.com/solana-labs/solana)
+3. 🗣 Commented on [#64](https://github.com/ameliatastic/seahorse-lang/issues/64) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
+4. 🎉 Merged PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
+5. 💪 Opened PR [#1](https://github.com/anoushk1234/reading-list/pull/1) in [anoushk1234/reading-list](https://github.com/anoushk1234/reading-list)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

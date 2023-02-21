@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#747](https://github.com/WalletConnect/walletconnect-monorepo/issues/747) in [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
-2. 💪 Opened PR [#509](https://github.com/solana-developers/solana-cookbook/pull/509) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
-3. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. 🗣 Commented on [#30049](https://github.com/solana-labs/solana/issues/30049) in [solana-labs/solana](https://github.com/solana-labs/solana)
-5. 🗣 Commented on [#64](https://github.com/ameliatastic/seahorse-lang/issues/64) in [ameliatastic/seahorse-lang](https://github.com/ameliatastic/seahorse-lang)
+1. 🗣 Commented on [#74](https://github.com/yahoo/kubectl-flame/issues/74) in [yahoo/kubectl-flame](https://github.com/yahoo/kubectl-flame)
+2. 🗣 Commented on [#747](https://github.com/WalletConnect/walletconnect-monorepo/issues/747) in [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
+3. 💪 Opened PR [#509](https://github.com/solana-developers/solana-cookbook/pull/509) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+4. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 🗣 Commented on [#30049](https://github.com/solana-labs/solana/issues/30049) in [solana-labs/solana](https://github.com/solana-labs/solana)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

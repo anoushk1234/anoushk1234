@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/tinydancer-io/half-baked-client/issues/8) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-2. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 🗣 Commented on [#74](https://github.com/yahoo/kubectl-flame/issues/74) in [yahoo/kubectl-flame](https://github.com/yahoo/kubectl-flame)
-4. 🗣 Commented on [#747](https://github.com/WalletConnect/walletconnect-monorepo/issues/747) in [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
-5. 💪 Opened PR [#509](https://github.com/solana-developers/solana-cookbook/pull/509) in [solana-developers/solana-cookbook](https://github.com/solana-developers/solana-cookbook)
+1. 🗣 Commented on [#6](https://github.com/tinydancer-io/half-baked-client/issues/6) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+2. ❗️ Closed issue [#8](https://github.com/tinydancer-io/half-baked-client/issues/8) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+3. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 🗣 Commented on [#74](https://github.com/yahoo/kubectl-flame/issues/74) in [yahoo/kubectl-flame](https://github.com/yahoo/kubectl-flame)
+5. 🗣 Commented on [#747](https://github.com/WalletConnect/walletconnect-monorepo/issues/747) in [WalletConnect/walletconnect-monorepo](https://github.com/WalletConnect/walletconnect-monorepo)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -21,9 +21,9 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 🎉 Merged PR [#18](https://github.com/tinydancer-io/half-baked-client/pull/18) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-3. 🗣 Commented on [#17](https://github.com/tinydancer-io/half-baked-client/issues/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+1. 🗣 Commented on [#17](https://github.com/tinydancer-io/half-baked-client/issues/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+2. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. 🎉 Merged PR [#18](https://github.com/tinydancer-io/half-baked-client/pull/18) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
 4. 🗣 Commented on [#17](https://github.com/tinydancer-io/half-baked-client/issues/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
 5. 🗣 Commented on [#17](https://github.com/tinydancer-io/half-baked-client/issues/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
 <!--END_SECTION:activity-->

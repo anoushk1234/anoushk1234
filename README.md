@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/tinydancer-io/half-baked-client/issues/19) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-2. 🗣 Commented on [#19](https://github.com/tinydancer-io/half-baked-client/issues/19) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-3. 🎉 Merged PR [#17](https://github.com/tinydancer-io/half-baked-client/pull/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-4. 🗣 Commented on [#17](https://github.com/tinydancer-io/half-baked-client/issues/17) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-5. 💪 Opened PR [#1](https://github.com/0xNineteen/half-baked-client/pull/1) in [0xNineteen/half-baked-client](https://github.com/0xNineteen/half-baked-client)
+1. 🗣 Commented on [#4](https://github.com/tinydancer-io/half-baked-client/issues/4) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+2. 🎉 Merged PR [#20](https://github.com/tinydancer-io/half-baked-client/pull/20) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+3. 🗣 Commented on [#20](https://github.com/tinydancer-io/half-baked-client/issues/20) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+4. 🎉 Merged PR [#21](https://github.com/tinydancer-io/half-baked-client/pull/21) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+5. 🗣 Commented on [#20](https://github.com/tinydancer-io/half-baked-client/issues/20) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

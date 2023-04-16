@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29492](https://github.com/solana-labs/solana/issues/29492) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 🎉 Merged PR [#27](https://github.com/tinydancer-io/half-baked-client/pull/27) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-3. ❗️ Closed issue [#25](https://github.com/tinydancer-io/half-baked-client/issues/25) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-4. 💪 Opened PR [#27](https://github.com/tinydancer-io/half-baked-client/pull/27) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
-5. 🎉 Merged PR [#26](https://github.com/tinydancer-io/half-baked-client/pull/26) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+1. ❗️ Opened issue [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
+2. 🗣 Commented on [#29492](https://github.com/solana-labs/solana/issues/29492) in [solana-labs/solana](https://github.com/solana-labs/solana)
+3. 🎉 Merged PR [#27](https://github.com/tinydancer-io/half-baked-client/pull/27) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+4. ❗️ Closed issue [#25](https://github.com/tinydancer-io/half-baked-client/issues/25) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+5. 💪 Opened PR [#27](https://github.com/tinydancer-io/half-baked-client/pull/27) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

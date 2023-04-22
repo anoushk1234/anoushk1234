@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. 🗣 Commented on [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
-3. ❗️ Opened issue [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
-4. 🗣 Commented on [#29492](https://github.com/solana-labs/solana/issues/29492) in [solana-labs/solana](https://github.com/solana-labs/solana)
-5. 🎉 Merged PR [#27](https://github.com/tinydancer-io/half-baked-client/pull/27) in [tinydancer-io/half-baked-client](https://github.com/tinydancer-io/half-baked-client)
+1. 💪 Opened PR [#30](https://github.com/tinydancer-io/tinydancer/pull/30) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+2. ❌ Closed PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+3. 💪 Opened PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. 🗣 Commented on [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
+5. ❗️ Opened issue [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

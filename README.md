@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/tinydancer-io/tinydancer/pull/30) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. ❌ Closed PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-3. 💪 Opened PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-4. 🗣 Commented on [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
-5. ❗️ Opened issue [#3](https://github.com/shuding/notion-blog/issues/3) in [shuding/notion-blog](https://github.com/shuding/notion-blog)
+1. 💪 Opened PR [#31](https://github.com/tinydancer-io/tinydancer/pull/31) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+2. ❌ Closed PR [#28](https://github.com/tinydancer-io/tinydancer/pull/28) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+3. 💪 Opened PR [#30](https://github.com/tinydancer-io/tinydancer/pull/30) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. ❌ Closed PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+5. 💪 Opened PR [#29](https://github.com/tinydancer-io/tinydancer/pull/29) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

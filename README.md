@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/switchboard-xyz/sgx-sdk/pull/1) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
-2. 💪 Opened PR [#32](https://github.com/tinydancer-io/tinydancer/pull/32) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-3. 🎉 Merged PR [#31](https://github.com/tinydancer-io/tinydancer/pull/31) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-4. 💪 Opened PR [#31](https://github.com/tinydancer-io/tinydancer/pull/31) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-5. ❌ Closed PR [#28](https://github.com/tinydancer-io/tinydancer/pull/28) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+1. 🗣 Commented on [#17](https://github.com/rust-mobile/ndk/issues/17) in [rust-mobile/ndk](https://github.com/rust-mobile/ndk)
+2. 💪 Opened PR [#1](https://github.com/switchboard-xyz/sgx-sdk/pull/1) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
+3. 💪 Opened PR [#32](https://github.com/tinydancer-io/tinydancer/pull/32) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. 🎉 Merged PR [#31](https://github.com/tinydancer-io/tinydancer/pull/31) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+5. 💪 Opened PR [#31](https://github.com/tinydancer-io/tinydancer/pull/31) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

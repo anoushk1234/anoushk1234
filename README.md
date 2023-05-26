@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 💪 Opened PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 💪 Opened PR [#2](https://github.com/switchboard-xyz/sgx-sdk/pull/2) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
-4. 🗣 Commented on [#17](https://github.com/rust-mobile/ndk/issues/17) in [rust-mobile/ndk](https://github.com/rust-mobile/ndk)
-5. 💪 Opened PR [#1](https://github.com/switchboard-xyz/sgx-sdk/pull/1) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
+1. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+2. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. ❌ Closed PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 💪 Opened PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 💪 Opened PR [#2](https://github.com/switchboard-xyz/sgx-sdk/pull/2) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

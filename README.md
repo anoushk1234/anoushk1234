@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. ❌ Closed PR [#2](https://github.com/tinydancer-io/solana-improvement-documents/pull/2) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
 2. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. ❌ Closed PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. 💪 Opened PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-5. 💪 Opened PR [#2](https://github.com/switchboard-xyz/sgx-sdk/pull/2) in [switchboard-xyz/sgx-sdk](https://github.com/switchboard-xyz/sgx-sdk)
+3. 🗣 Commented on [#10](https://github.com/solana-foundation/solana-improvement-documents/issues/10) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. ❌ Closed PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 💪 Opened PR [#51](https://github.com/solana-foundation/solana-improvement-documents/pull/51) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

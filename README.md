@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/firedancer-io/firedancer/issues/142) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-2. 💪 Opened PR [#403](https://github.com/firedancer-io/firedancer/pull/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+1. 🎉 Merged PR [#3](https://github.com/tinydancer-io/solana-improvement-documents/pull/3) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+2. 🗣 Commented on [#147](https://github.com/firedancer-io/firedancer/issues/147) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 3. 🗣 Commented on [#142](https://github.com/firedancer-io/firedancer/issues/142) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-4. 🗣 Commented on [#142](https://github.com/firedancer-io/firedancer/issues/142) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-5. ❌ Closed PR [#2](https://github.com/tinydancer-io/solana-improvement-documents/pull/2) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+4. 💪 Opened PR [#403](https://github.com/firedancer-io/firedancer/pull/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+5. 🗣 Commented on [#142](https://github.com/firedancer-io/firedancer/issues/142) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/issues/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+1. ❗ Opened issue [#60](https://github.com/solana-foundation/solana-improvement-documents/issues/60) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+2. 💪 Opened PR [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
 3. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/issues/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 4. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/issues/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-5. 💪 Opened PR [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/issues/403) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1663482194) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-2. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1662587026) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-3. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1662428248) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-4. 💪 Opened PR [#557](https://github.com/firedancer-io/firedancer/pull/557) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-5. ❗ Opened issue [#60](https://github.com/solana-foundation/solana-improvement-documents/issues/60) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664127372) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+2. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1663482194) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+3. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1662587026) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+4. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1662428248) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+5. 💪 Opened PR [#557](https://github.com/firedancer-io/firedancer/pull/557) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

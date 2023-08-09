@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 🗣 Commented on [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59#issuecomment-1666488584) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664419124) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-4. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664395809) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-5. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664387806) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+1. 💪 Opened PR [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+2. ❌ Closed PR [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. 🗣 Commented on [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59#issuecomment-1666488584) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664419124) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+5. 🗣 Commented on [#557](https://github.com/firedancer-io/firedancer/pull/557#issuecomment-1664395809) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

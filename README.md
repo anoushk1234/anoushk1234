@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/pull/403#issuecomment-1691244238) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-2. 🗣 Commented on [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52#issuecomment-1684990099) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 🗣 Commented on [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52#issuecomment-1672020712) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. 💪 Opened PR [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-5. ❌ Closed PR [#59](https://github.com/solana-foundation/solana-improvement-documents/pull/59) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. ❗ Opened issue [#634](https://github.com/firedancer-io/firedancer/issues/634) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+2. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/pull/403#issuecomment-1691244238) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
+3. 🗣 Commented on [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52#issuecomment-1684990099) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 🗣 Commented on [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52#issuecomment-1672020712) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 💪 Opened PR [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

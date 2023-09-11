@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/Syndica/sig/pull/33) in [Syndica/sig](https://github.com/Syndica/sig)
-2. 💪 Opened PR [#31](https://github.com/Syndica/sig/pull/31) in [Syndica/sig](https://github.com/Syndica/sig)
-3. ❗ Opened issue [#634](https://github.com/firedancer-io/firedancer/issues/634) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-4. 🗣 Commented on [#403](https://github.com/firedancer-io/firedancer/pull/403#issuecomment-1691244238) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
-5. 🗣 Commented on [#52](https://github.com/solana-foundation/solana-improvement-documents/pull/52#issuecomment-1684990099) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. ❗ Opened issue [#17118](https://github.com/ziglang/zig/issues/17118) in [ziglang/zig](https://github.com/ziglang/zig)
+2. ❗ Opened issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
+3. 💪 Opened PR [#33](https://github.com/Syndica/sig/pull/33) in [Syndica/sig](https://github.com/Syndica/sig)
+4. 💪 Opened PR [#31](https://github.com/Syndica/sig/pull/31) in [Syndica/sig](https://github.com/Syndica/sig)
+5. ❗ Opened issue [#634](https://github.com/firedancer-io/firedancer/issues/634) in [firedancer-io/firedancer](https://github.com/firedancer-io/firedancer)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

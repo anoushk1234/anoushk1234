@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Syndica/sig/pull/35) in [Syndica/sig](https://github.com/Syndica/sig)
-2. ❗ Opened issue [#17118](https://github.com/ziglang/zig/issues/17118) in [ziglang/zig](https://github.com/ziglang/zig)
-3. ❗ Opened issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
-4. 💪 Opened PR [#33](https://github.com/Syndica/sig/pull/33) in [Syndica/sig](https://github.com/Syndica/sig)
-5. 💪 Opened PR [#31](https://github.com/Syndica/sig/pull/31) in [Syndica/sig](https://github.com/Syndica/sig)
+1. 🔒 Closed issue [#17118](https://github.com/ziglang/zig/issues/17118) in [ziglang/zig](https://github.com/ziglang/zig)
+2. 🗣 Commented on [#17118](https://github.com/ziglang/zig/issues/17118#issuecomment-1714231872) in [ziglang/zig](https://github.com/ziglang/zig)
+3. 💪 Opened PR [#35](https://github.com/Syndica/sig/pull/35) in [Syndica/sig](https://github.com/Syndica/sig)
+4. ❗ Opened issue [#17118](https://github.com/ziglang/zig/issues/17118) in [ziglang/zig](https://github.com/ziglang/zig)
+5. ❗ Opened issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

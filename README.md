@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33486](https://github.com/solana-labs/solana/issues/33486) in [solana-labs/solana](https://github.com/solana-labs/solana)
-2. 🔒 Closed issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
-3. 🗣 Commented on [#301](https://github.com/ziglang/www.ziglang.org/issues/301#issuecomment-1725912372) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
-4. 🗣 Commented on [#33](https://github.com/Syndica/sig/pull/33#issuecomment-1716234962) in [Syndica/sig](https://github.com/Syndica/sig)
-5. 🔒 Closed issue [#17118](https://github.com/ziglang/zig/issues/17118) in [ziglang/zig](https://github.com/ziglang/zig)
+1. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759112231) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+2. ❗ Opened issue [#33486](https://github.com/solana-labs/solana/issues/33486) in [solana-labs/solana](https://github.com/solana-labs/solana)
+3. 🔒 Closed issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
+4. 🗣 Commented on [#301](https://github.com/ziglang/www.ziglang.org/issues/301#issuecomment-1725912372) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
+5. 🗣 Commented on [#33](https://github.com/Syndica/sig/pull/33#issuecomment-1716234962) in [Syndica/sig](https://github.com/Syndica/sig)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

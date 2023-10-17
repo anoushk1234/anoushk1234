@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759659581) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-2. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759429146) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759112231) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. ❗ Opened issue [#33486](https://github.com/solana-labs/solana/issues/33486) in [solana-labs/solana](https://github.com/solana-labs/solana)
-5. 🔒 Closed issue [#301](https://github.com/ziglang/www.ziglang.org/issues/301) in [ziglang/www.ziglang.org](https://github.com/ziglang/www.ziglang.org)
+1. 🎉 Merged PR [#5](https://github.com/tinydancer-io/solana-improvement-documents/pull/5) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+2. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759659581) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+3. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759429146) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+4. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759112231) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. ❗ Opened issue [#33486](https://github.com/solana-labs/solana/issues/33486) in [solana-labs/solana](https://github.com/solana-labs/solana)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

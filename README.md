@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/tinydancer-io/solana-improvement-documents/pull/7) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
-2. 🎉 Merged PR [#6](https://github.com/tinydancer-io/solana-improvement-documents/pull/6) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
-3. 🎉 Merged PR [#5](https://github.com/tinydancer-io/solana-improvement-documents/pull/5) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
-4. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759659581) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-5. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759429146) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. 🎉 Merged PR [#8](https://github.com/tinydancer-io/solana-improvement-documents/pull/8) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+2. 🎉 Merged PR [#7](https://github.com/tinydancer-io/solana-improvement-documents/pull/7) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+3. 🎉 Merged PR [#6](https://github.com/tinydancer-io/solana-improvement-documents/pull/6) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+4. 🎉 Merged PR [#5](https://github.com/tinydancer-io/solana-improvement-documents/pull/5) in [tinydancer-io/solana-improvement-documents](https://github.com/tinydancer-io/solana-improvement-documents)
+5. 🗣 Commented on [#64](https://github.com/solana-foundation/solana-improvement-documents/pull/64#issuecomment-1759659581) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

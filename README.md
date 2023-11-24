@@ -21,11 +21,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#156](https://github.com/solana-labs/contributor-access-policy/issues/156) in [solana-labs/contributor-access-policy](https://github.com/solana-labs/contributor-access-policy)
-2. 💪 Opened PR [#34145](https://github.com/solana-labs/solana/pull/34145) in [solana-labs/solana](https://github.com/solana-labs/solana)
-3. 💪 Opened PR [#1](https://github.com/tinydancer-io/solana/pull/1) in [tinydancer-io/solana](https://github.com/tinydancer-io/solana)
-4. ❌ Closed PR [#34094](https://github.com/solana-labs/solana/pull/34094) in [solana-labs/solana](https://github.com/solana-labs/solana)
-5. 💪 Opened PR [#34094](https://github.com/solana-labs/solana/pull/34094) in [solana-labs/solana](https://github.com/solana-labs/solana)
+1. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1825177007) in [solana-labs/solana](https://github.com/solana-labs/solana)
+2. ❗ Opened issue [#156](https://github.com/solana-labs/contributor-access-policy/issues/156) in [solana-labs/contributor-access-policy](https://github.com/solana-labs/contributor-access-policy)
+3. 💪 Opened PR [#34145](https://github.com/solana-labs/solana/pull/34145) in [solana-labs/solana](https://github.com/solana-labs/solana)
+4. 💪 Opened PR [#1](https://github.com/tinydancer-io/solana/pull/1) in [tinydancer-io/solana](https://github.com/tinydancer-io/solana)
+5. ❌ Closed PR [#34094](https://github.com/solana-labs/solana/pull/34094) in [solana-labs/solana](https://github.com/solana-labs/solana)
 <!--END_SECTION:activity-->
 
 ## My Projects  📁

@@ -10,14 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/anoushk77" target="blank"><img src="https://img.shields.io/twitter/follow/anoushk77?logo=twitter&style=for-the-badge" alt="anoushk77" /></a> </p>
 
-- 📝 I write articles on [anoushk.medium.com](https://anoushk.medium.com)
+- 📝 You can find my research on [anoushk.com/research](https://anoushk.com/research)
 
 - 📫 How to reach me **kharangateanoushk04@gmail.com**
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Mint NFTs on Solana Using Rust and Metaplex](https://betterprogramming.pub/how-to-mint-nfts-on-solana-using-rust-and-metaplex-f66bac717cb8?source=rss-10fdf2dc0158------2)
-<!-- BLOG-POST-LIST:END -->
+- 🦀 You can find my project on [anoushk.com/projects](https://anoushk.com/projects)
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
@@ -27,23 +24,6 @@
 4. ❗ Opened issue [#156](https://github.com/solana-labs/contributor-access-policy/issues/156) in [solana-labs/contributor-access-policy](https://github.com/solana-labs/contributor-access-policy)
 5. 💪 Opened PR [#34145](https://github.com/solana-labs/solana/pull/34145) in [solana-labs/solana](https://github.com/solana-labs/solana)
 <!--END_SECTION:activity-->
-
-## My Projects  📁
-
-- [**tmev**](https://github.com/anoushk1234/tmev): A terminal mempool explorer for jito solana validators
-- [**Solana-OTP-Wallet**](https://github.com/anoushk1234/solana-otp-wallet): A Smart Contract Wallet that an be recovered using an OTP sent to your phone
-- [**Dakiya**](https://dakiya.xyz): A secure p2p messaging platform and protocol built on ethereum and polygon
-- [**Instadao**](https://instadao.org): a one click dao and community token launcher built on ethereum
-- [**Metapass**](https://metapasshq.xyz): an nft ticketing platform built on polygon and solana to token gate online and IRL events
-- [**MapMyDao**](https://mapmydao.vercel.app/): a neat app that allows DAO members to easily locate each other and share information about their DAO.
-- [**Create-anchor-app**](https://github.com/create-anchor-app/cli): A CLI tool to quickly create an anchor program from templates and setup anchor dev environment.
-- [**GitSol**](https://gitsol.xyz): An onchain version control tool built on Solana and filecoin
-- [**Anchor to Prisma Transpiler**](https://github.com/anoushk1234/anchor-prisma-transpiler): A transpiler to convert Solana Program IDL to a prisma schema
-- [**Solana Relayer**](https://github.com/anoushk1234/solana-relayer): A Gasless transaction relayer for Solana with Durable Nonces to ensure reliable relaying 
-- [**Sqlana Store**](https://sqlana.store): A NoSql Database built on Shadow drive
-- **Fanvest**: a dapp that lets you mint movie ideas and movies as nfts and crowdfund them, built on polygon
-  - [Landing Page](https://fanvest.in)
-  - [Dapp](https://alpha.fanvest.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

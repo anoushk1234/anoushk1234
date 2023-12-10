@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Anoushk</h1>
 <h4 align="center">In search of hard problems</h4>
 
-<h3 align="center">Co - founder & lead engineer @ <span style="color:white">tinydancer.io</span></h3>
+<h3 align="center">Core Dev @ <span style="color:white">tinydancer.io</span></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoushk1234&label=Profile%20views&color=0e75b6&style=flat" alt="anoushk1234" /> </p>
 

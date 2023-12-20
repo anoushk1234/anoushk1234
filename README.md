@@ -18,11 +18,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.1) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1829227671) in [solana-labs/solana](https://github.com/solana-labs/solana)
-3. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1825177007) in [solana-labs/solana](https://github.com/solana-labs/solana)
-4. ❗ Opened issue [#156](https://github.com/solana-labs/contributor-access-policy/issues/156) in [solana-labs/contributor-access-policy](https://github.com/solana-labs/contributor-access-policy)
-5. 💪 Opened PR [#34145](https://github.com/solana-labs/solana/pull/34145) in [solana-labs/solana](https://github.com/solana-labs/solana)
+1. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1863896999) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
+2. 🚀 Published release [v0.0.1](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.1) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+3. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1829227671) in [solana-labs/solana](https://github.com/solana-labs/solana)
+4. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1825177007) in [solana-labs/solana](https://github.com/solana-labs/solana)
+5. ❗ Opened issue [#156](https://github.com/solana-labs/contributor-access-policy/issues/156) in [solana-labs/contributor-access-policy](https://github.com/solana-labs/contributor-access-policy)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>

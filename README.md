@@ -18,11 +18,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1873297990) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
-2. 💪 Opened PR [#743](https://github.com/electric-capital/crypto-ecosystems/pull/743) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
-3. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1863896999) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
-4. 🚀 Published release [v0.0.1](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.1) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-5. 🗣 Commented on [#34196](https://github.com/solana-labs/solana/issues/34196#issuecomment-1829227671) in [solana-labs/solana](https://github.com/solana-labs/solana)
+1. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1877179756) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
+2. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1873297990) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
+3. 💪 Opened PR [#743](https://github.com/electric-capital/crypto-ecosystems/pull/743) in [electric-capital/crypto-ecosystems](https://github.com/electric-capital/crypto-ecosystems)
+4. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1863896999) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
+5. 🚀 Published release [v0.0.1](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.1) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>

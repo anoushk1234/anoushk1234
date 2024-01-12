@@ -18,11 +18,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/tinydancer-io/tinydancer/issues/33#issuecomment-1884718307) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. 🗣 Commented on [#56](https://github.com/solana-foundation/solana-improvement-documents/pull/56#issuecomment-1882438060) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-3. 🗣 Commented on [#56](https://github.com/solana-foundation/solana-improvement-documents/pull/56#issuecomment-1879592296) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
-4. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1877179756) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
-5. 🗣 Commented on [#5](https://github.com/jito-foundation/stakenet/issues/5#issuecomment-1873297990) in [jito-foundation/stakenet](https://github.com/jito-foundation/stakenet)
+1. 🗣 Commented on [#13](https://github.com/anoushk1234/metaplex-anchor-nft/issues/13#issuecomment-1888475797) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+2. 🔒 Closed issue [#13](https://github.com/anoushk1234/metaplex-anchor-nft/issues/13) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
+3. 🗣 Commented on [#33](https://github.com/tinydancer-io/tinydancer/issues/33#issuecomment-1884718307) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. 🗣 Commented on [#56](https://github.com/solana-foundation/solana-improvement-documents/pull/56#issuecomment-1882438060) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+5. 🗣 Commented on [#56](https://github.com/solana-foundation/solana-improvement-documents/pull/56#issuecomment-1879592296) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>

@@ -18,11 +18,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/tinydancer-io/tinydancer/pull/34) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. 🗣 Commented on [#13](https://github.com/anoushk1234/metaplex-anchor-nft/issues/13#issuecomment-1888475797) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-3. 🔒 Closed issue [#13](https://github.com/anoushk1234/metaplex-anchor-nft/issues/13) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
-4. 🗣 Commented on [#33](https://github.com/tinydancer-io/tinydancer/issues/33#issuecomment-1884718307) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-5. 🗣 Commented on [#56](https://github.com/solana-foundation/solana-improvement-documents/pull/56#issuecomment-1882438060) in [solana-foundation/solana-improvement-documents](https://github.com/solana-foundation/solana-improvement-documents)
+1. ❌ Closed PR [#10](https://github.com/tinydancer-io/tinydancer/pull/10) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+2. ❌ Closed PR [#30](https://github.com/tinydancer-io/tinydancer/pull/30) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+3. ❌ Closed PR [#11](https://github.com/tinydancer-io/tinydancer/pull/11) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. 💪 Opened PR [#34](https://github.com/tinydancer-io/tinydancer/pull/34) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+5. 🗣 Commented on [#13](https://github.com/anoushk1234/metaplex-anchor-nft/issues/13#issuecomment-1888475797) in [anoushk1234/metaplex-anchor-nft](https://github.com/anoushk1234/metaplex-anchor-nft)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>

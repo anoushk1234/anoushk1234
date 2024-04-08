@@ -18,11 +18,11 @@
 
 ## ⚡ My latest activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/tinydancer-io/tinydancer/issues/35#issuecomment-2039106354) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-2. 🗣 Commented on [#35](https://github.com/tinydancer-io/tinydancer/issues/35#issuecomment-2036223734) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-3. 🚀 Published release [v0.0.2](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.2) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
-4. 🗣 Commented on [#5](https://github.com/HardhatChad/ore/issues/5#issuecomment-2036196743) in [HardhatChad/ore](https://github.com/HardhatChad/ore)
-5. 🔒 Closed issue [#3](https://github.com/tinydancer-io/tinydancer/issues/3) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+1. 💪 Opened PR [#2645](https://github.com/jup-ag/token-list/pull/2645) in [jup-ag/token-list](https://github.com/jup-ag/token-list)
+2. 🗣 Commented on [#35](https://github.com/tinydancer-io/tinydancer/issues/35#issuecomment-2039106354) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+3. 🗣 Commented on [#35](https://github.com/tinydancer-io/tinydancer/issues/35#issuecomment-2036223734) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+4. 🚀 Published release [v0.0.2](https://github.com/tinydancer-io/tinydancer/releases/tag/v0.0.2) in [tinydancer-io/tinydancer](https://github.com/tinydancer-io/tinydancer)
+5. 🗣 Commented on [#5](https://github.com/HardhatChad/ore/issues/5#issuecomment-2036196743) in [HardhatChad/ore](https://github.com/HardhatChad/ore)
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
